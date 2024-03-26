@@ -1,0 +1,26 @@
+/* Set background color for the entire body */
+body {
+    background-color: #e0f2f1;  /* Light blue-green - Eye soothing color */
+  }
+
+
+.main {
+    text-align: center;
+}
+
+input[type="submit"] {
+    color: #fff; /* Change the text color to white */
+    background-color: #099f9a; /* Set a green background color */
+    cursor: pointer;
+    }
+
+.removeAll{
+    color: #fff; /* Change the text color to white */
+    background-color: #099f9a; /* Set a green background color */
+    cursor: pointer;
+
+}
+
+h4{
+    font-family: "Lucida Console", "Courier New", monospace;
+}
