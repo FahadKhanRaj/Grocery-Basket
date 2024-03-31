@@ -8,7 +8,7 @@
 <body>
   <h3 class="centered">Grocery Basket</h3>
 
-  <p>This project is a web-based grocery list application built with HTML, CSS, and JavaScript. Add items to your list, remove</p>
+  <p>This project is a grocery list application built from scratch using HTML, CSS, and JavaScript. No framework, template or anything was used to build this. This is basically made for testing my javascript skill</p>
 
 </body>
 </html>
